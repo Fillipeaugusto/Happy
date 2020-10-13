@@ -20,7 +20,7 @@ function Landing(){
          <span>Distrito Federal</span>
        </div>
        <Link to="/app" className="enter-app"> 
-      <FiArrowRight  size={26} color="rgba(0, 0, 0 0.6)"/> 
+      <FiArrowRight  size={40} color="#fff"/> 
        </Link>
      </div>
     </div>
