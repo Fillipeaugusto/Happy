@@ -13,3 +13,17 @@ body{
 body, input, button, textarea{
     font: 600 18px Nunito, sans-serif;
 }
+
+::-webkit-scrollbar-track {
+    background-color:  #aaaeaf;
+   
+}
+::-webkit-scrollbar {
+    width: 10px;
+    background: #F4F4F4;
+    
+}
+::-webkit-scrollbar-thumb {
+    background: #078d8d;
+    border-radius: 10px;
+}
